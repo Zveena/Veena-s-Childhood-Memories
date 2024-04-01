@@ -7,7 +7,7 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-
+about-banner-image-position: bottom
 {% include feature/jumbotron.html objectid="coll006" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
