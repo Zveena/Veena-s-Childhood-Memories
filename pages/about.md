@@ -23,3 +23,5 @@ Embark on a journey into Veena's enchanting world, where memories of her past co
 
 
 A heartfelt acknowledgment to Veena, the creator of "Veena's Childhood Memories" repository. Your initiative and dedication in curating this collection of cherished memories reflect your deep appreciation for your own childhood experiences. Your efforts have immortalized these precious moments, allowing them to be treasured for years to come. Thank you for sharing your journey with us.
+
+ {% include feature/card.html header="Thank you" text="Thank you" width="25" centered=true %}
