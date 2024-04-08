@@ -23,7 +23,7 @@ Embark on a journey into Veena's enchanting world, where memories of her past co
 
 Veena Talosig, a Bachelor of Library and Information Science student at Saint Paul University Surigao, passionately curates "Veena's Childhood Memories." With a deep appreciation for preserving nostalgic treasures, Veena ensures each memory is captured with care and precision, inviting others to relive the magic of childhood alongside her.
 
-{% include feature/image.html objectid="/assets/img/vp.jpg" width="100" %}
+{% include feature/image.html objectid="/assets/img/vp.jpg" width="25" %}
 
 
 ## Connect with Us
