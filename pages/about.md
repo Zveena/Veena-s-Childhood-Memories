@@ -17,6 +17,8 @@ credits: true
 
 Embark on a journey into Veena's enchanting world, where memories of her past come alive. This repository serves as a platform to curate a digital collection, presenting a variety of images and documents that capture the essence of Veena's early years. Explore carefully selected objects from Veena's personal collection, each offering a heartfelt glimpse into her cherished memories.
 
+{% include feature/image.html objectid="https://drive.google.com/file/d/1dcBfd_7FV0mVK7cKtglLHlGSnTEyIRl6/view?usp=sharing" width="75" alt="Veena Talosig" %}
+
 
 ## About the Curator
 
